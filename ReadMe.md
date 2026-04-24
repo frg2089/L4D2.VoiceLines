@@ -27,7 +27,7 @@ src/
 
 ```bash
 git clone https://github.com/frg2089/L4D2.VoiceLines.git
-cd l4d2_voice_lines
+cd L4D2.VoiceLines
 ```
 
 ### 2. 构建语音收集器
