@@ -2,6 +2,8 @@
 
 求生之路 2 幸存者台词收集工具。
 
+台词已记录在 [L4D2.VoiceLines.txt](https://github.com/frg2089/L4D2.VoiceLines.txt) 项目中了
+
 ## 功能
 
 - 提取游戏中的幸存者语音音频文件
